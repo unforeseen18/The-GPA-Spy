@@ -1,4 +1,4 @@
-# 🎓 EduPulse Analytics (Java + MySQL + Python)
+# 🎓 The GPA Spy(Java + MySQL + Python)
 
 A database-driven academic analytics system developed using Java, MySQL, and Python to manage and analyze student academic performance. The project integrates SQL-based student management with Python-powered analytics and reporting to generate meaningful educational insights.
 
